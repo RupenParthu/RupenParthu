@@ -40,10 +40,3 @@ learning Game Development along with Web dev and improving my logic by doing Com
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=RupenParthu&theme=dark&hide_border=false)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RupenParthu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)  
 -->
-
-## Random Dev Quote
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)  
-
----
-![Visitor Count](https://visitcount.itsvg.in/api?id=RupenParthu&icon=0&color=0)  
-</div>
