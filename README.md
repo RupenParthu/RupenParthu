@@ -20,7 +20,7 @@ learning Game Development along with Web dev and improving my logic by doing Com
   -->
 
 <div>
- <img alt="GIF" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gifv"/>
+ <img alt="GIF" src="https://image.myanimelist.net/ui/7isnREMLbyeZkaxAatnzz5nHSzNYQ4vqYJbL4lvxDI_u07NWjRtsO8zMfd8fvyQyXoh7E9pfMn1lV80aYloMFuYKvG724x2fWKGDvuKqDjbHbZYpV0c_fo4fpFCASJ9s"/>
 </div>
 
 ## Tech Stack
