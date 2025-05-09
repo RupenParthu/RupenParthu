@@ -23,6 +23,7 @@ learning Game Development along with Web dev and improving my logic by doing Com
  <img alt="GIF" src="https://image.myanimelist.net/ui/7isnREMLbyeZkaxAatnzz5nHSzNYQ4vqYJbL4lvxDI_u07NWjRtsO8zMfd8fvyQyXoh7E9pfMn1lV80aYloMFuYKvG724x2fWKGDvuKqDjbHbZYpV0c_fo4fpFCASJ9s"/>
 </div>
 
+<!--
 ## Tech Stack
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -31,7 +32,6 @@ learning Game Development along with Web dev and improving my logic by doing Com
 ![Godot](https://img.shields.io/badge/Godot-3B9ED6?style=for-the-badge&logo=godot-engine&logoColor=white)
 ![MERN Stack](https://img.shields.io/badge/MERN_Stack-Full_Stack-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-<!--
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
