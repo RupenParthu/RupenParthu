@@ -1,4 +1,4 @@
-<h1 align="center">I'm Rupen </h1>
+<h1 align="center">Greetings, I'm Rupen</h1>
 <div align="center"> 
     
 B.Tech 2nd Year | CSIT Major  
@@ -6,7 +6,7 @@ AI/ML for skill | GameDev for chill
 
 ## Socials
 <a href="https://www.linkedin.com/in/rupen-parthu/">
-    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png" width="70"/>
+    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png" width="90"/>
   </a>
 
 ## Code Platforms
@@ -20,6 +20,6 @@ AI/ML for skill | GameDev for chill
   -->
 
 <div>
- <img alt="GIF" src="https://image.myanimelist.net/ui/7isnREMLbyeZkaxAatnzz5nHSzNYQ4vqYJbL4lvxDI_u07NWjRtsO8zMfd8fvyQyXoh7E9pfMn1lV80aYloMFuYKvG724x2fWKGDvuKqDjbHbZYpV0c_fo4fpFCASJ9s"/>
+ <img alt="GIF" src="https://media1.tenor.com/m/baqFeqPnHG0AAAAd/bocchi-the-rock-sad.gif" width = "500"/>
 </div>
 <p align="center"><i>「 me while grinding CP 」</i></p>
