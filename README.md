@@ -2,7 +2,7 @@
 <div align="center"> 
     
 B.Tech 2nd Year | CSIT Major  
-AI/ML for skill | GameDev for chill
+Learning AI | Making Games
 
 ## Socials
 <a href="https://www.linkedin.com/in/rupen-parthu/">
