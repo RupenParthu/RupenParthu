@@ -5,9 +5,13 @@ B.Tech 2nd Year | CSIT Major
 Learning AI | Making Games
 
 ## Socials
-<a href="https://www.linkedin.com/in/rupen-parthu/">
-    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png" width="90"/>
-  </a>
+<a href="https://www.linkedin.com/in/rupen-parthu/" style="text-decoration:none;">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" width="90"/>
+ </a>
+ &nbsp;&nbsp;
+ <a href="https://rupenparthu.itch.io/" style="text-decoration:none;"> 
+    <img align="center" src="https://static.wikia.nocookie.net/logopedia/images/0/01/Itch_io.svg/revision/latest?cb=20220421190013" width="90"/>
+ </a>
 
 ## Code Platforms
 
