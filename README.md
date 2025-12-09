@@ -6,7 +6,7 @@ Learning AI | Making Games
 
 ## Socials
 <a href="https://www.linkedin.com/in/rupen-parthu/" style="text-decoration:none;">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1200px-LinkedIn_Logo.svg.png" width="90"/>
+    <img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/Linkedin-logo-blue-png-large-size.png" width="90"/>
  </a>
  &nbsp;&nbsp;
  <a href="https://rupenparthu.itch.io/" style="text-decoration:none;"> 
